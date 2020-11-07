@@ -1,0 +1,31 @@
+.bc-p {
+    background-color: pink;
+}
+
+.bc-r {
+    background-color: red;
+}
+
+.br-nr {
+    background-repeat: no-repeat;
+}
+
+.bp-c {
+    background-position: center;
+}
+
+.bsr {
+    border: 1px solid red;
+}
+
+.cp {
+    color: pink;
+}
+
+.cr {
+    color: red;
+}
+
+.df {
+    display: flex;
+}

@@ -1,0 +1,83 @@
+.bc-p {
+    background-color: pink;
+}
+
+.bc-r {
+    background-color: red;
+}
+
+.br-nr {
+    background-repeat: no-repeat;
+}
+
+.bp-c {
+    background-position: center;
+}
+
+.bsr {
+    border: 1px solid red;
+}
+
+.cp {
+    color: pink;
+}
+
+.cr {
+    color: red;
+}
+
+.df {
+    display: flex;
+}
+
+.fd-c {
+    flex-direction: column;
+}
+
+.jc-sb {
+    justify-content: space-between;
+}
+
+.jc-sa {
+    justify-content: space-around;
+}
+
+.jc-fe {
+    justify-content: flex-end;
+}
+
+.jc-fs {
+    justify-content: flex-start;
+}
+
+.jc-c {
+    justify-content: center;
+}
+
+.jc-l {
+    justify-content: left;
+}
+
+.jc-r {
+    justify-content: right;
+}
+
+.jc-e {
+    justify-content: end;
+}
+
+.jc-s {
+    justify-content: start;
+}
+
+.ai-c {
+    align-items: center;
+}
+
+.ai-fe {
+    align-items: flex-end;
+}
+
+.ai-fs {
+    align-items: flex-start;
+}

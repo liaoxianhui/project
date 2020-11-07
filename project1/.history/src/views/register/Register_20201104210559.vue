@@ -1,0 +1,29 @@
+<template>
+  <div class="box">
+      <el-card>
+
+      </el-card>
+  </div>
+</template>
+
+<script>
+export default {
+  name: '',
+  props:{},
+  data () {
+    return {
+    }
+  },
+  components: {},
+  methods: {},
+  mounted() {},
+  computed: {},
+  watch: {}
+}
+</script>
+
+<style lang='scss' scoped>
+.box{
+    background: url('https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3140367413,2873347765&fm=26&gp=0.jpg');
+}
+</style>
